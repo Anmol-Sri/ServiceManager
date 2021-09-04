@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ServiceManagerTest.cpp
+C:\Users\Anmol\Desktop\ServiceManagerTest\ServiceManagerTest.cpp(17,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Anmol\Desktop\ServiceManagerTest\ServiceManagerTest.cpp(97,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ServiceManager.cpp
+  ServiceManagerTest.vcxproj -> C:\Users\Anmol\Desktop\ServiceManagerTest\Debug\ServiceManagerTest.exe
